@@ -1,5 +1,5 @@
 {
-  "name": "logger",
+  "name": "nexus.log",
   "version": "0.0.1",
   "description": "A simple yet effective logger made in Nodejs. ",
   "main": "./Source/Index.js",

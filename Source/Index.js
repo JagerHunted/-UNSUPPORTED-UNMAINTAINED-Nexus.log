@@ -3,7 +3,7 @@
 
 /*
 
-    Logger.js  —  Index.js
+    Nexus.log  —  Index.js
 
 */
 
