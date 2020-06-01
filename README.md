@@ -12,7 +12,7 @@ You can download it from NPM today.
 $ npm i nexus.log
 ```
 
-###Implementation
+### Implementation
 ```javascript
 
 /*
