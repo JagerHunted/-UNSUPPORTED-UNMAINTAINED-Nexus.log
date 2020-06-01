@@ -1,0 +1,26 @@
+{
+  "name": "logger",
+  "version": "0.0.1",
+  "description": "A simple yet effective logger made in Nodejs. ",
+  "main": "./Source/Index.js",
+  "scripts": {
+    "test": "node ./Source/Test.js",
+    "publish_win": "./Tools/Publish.cmd",
+    "publish_lin": "./Tools/Publish.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JagerHunted/Logger.git"
+  },
+  "keywords": [
+    "nodejs",
+    "logger",
+    "lightweight"
+  ],
+  "author": "JagerHunted",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JagerHunted/Logger/issues"
+  },
+  "homepage": "https://github.com/JagerHunted/Logger#readme"
+}
