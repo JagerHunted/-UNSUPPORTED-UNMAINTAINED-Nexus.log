@@ -1,11 +1,11 @@
-#Nexus.log
+# Nexus.log
 
 A simple yet effective logger made in Node.js.
 
-##Usage
+## Usage
 This will show you how to use the Nexus.log package.
 
-###Installation
+### Installation
 You can download it from NPM today.
 
 ```shell script
