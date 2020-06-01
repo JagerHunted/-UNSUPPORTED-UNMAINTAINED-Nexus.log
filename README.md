@@ -22,7 +22,7 @@ $ npm i nexus.log
 */
 
 
-const Nexus = require('./Index.js')
+const Nexus = require('./nexus.log.js')
 const Log = new Nexus;
 
 // You can ignore this config if you would like.
