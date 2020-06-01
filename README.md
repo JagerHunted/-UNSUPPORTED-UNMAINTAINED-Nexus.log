@@ -22,8 +22,15 @@ $ npm i nexus.log
 */
 
 
-const Logger = require('nexus.log')
-const Log = new Logger;
+const Nexus = require('./Index.js')
+const Log = new Nexus;
+
+// You can ignore this config if you would like.
+Log.CreateLogger({
+
+    Path: "./Logs/" // Where to store the logs.
+
+})
 
 
 Log.Info("One!")
